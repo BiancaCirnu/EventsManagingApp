@@ -1,5 +1,5 @@
-Events Managing Application
-
+**Events Managing Application
+**
 The application can be started as admin or as a user, having information stored in textfiles.
 
 The **admin** can add, remove or modify events. When adding an event, all the introduced data is checked if it fits some requirements.
